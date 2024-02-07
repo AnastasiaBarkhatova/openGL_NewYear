@@ -1,0 +1,5 @@
+setup.py
+accelerate.egg-info/PKG-INFO
+accelerate.egg-info/SOURCES.txt
+accelerate.egg-info/dependency_links.txt
+accelerate.egg-info/top_level.txt
